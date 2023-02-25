@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fe195
+- 👋 Hi, I’m Feba rachel Lalu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning  React Js
 - 💞️ I’m looking to collaborate on ...
