@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Feba rachel Lalu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning  React Js
+- 🌱 I’m a Python Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  febakulangara@gmail.com
 <!---
